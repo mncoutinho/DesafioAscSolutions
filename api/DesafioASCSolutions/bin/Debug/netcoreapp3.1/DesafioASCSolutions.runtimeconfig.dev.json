@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/aguia/.dotnet/store/|arch|/|tfm|",
+      "/home/aguia/.nuget/packages"
+    ]
+  }
+}
